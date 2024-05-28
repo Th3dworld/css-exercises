@@ -1,10 +1,23 @@
 /* style.css */
 
+/* Classes */
 .odd {
     background-color: rgb(250, 154, 170);
     font-family: "Verdana", "DejaVu Sans", sans-serif; 
 }
 
 .fontini{
-    font-size:36px;
+    font-size:24px;
+}
+
+/* IDs */
+#one {
+    color: hsl(240, 100%, 63%);
+    font-size: 36px;
+}
+
+#two{
+    background-color: rgb(186, 255, 84);
+    font-size: 24px;
+    font-weight: bold;
 }
